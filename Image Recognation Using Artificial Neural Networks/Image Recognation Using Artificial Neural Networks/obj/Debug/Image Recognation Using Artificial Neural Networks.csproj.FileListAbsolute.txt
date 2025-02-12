@@ -1,0 +1,7 @@
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\bin\Debug\Image Recognation Using Artificial Neural Networks.exe.config
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\bin\Debug\Image Recognation Using Artificial Neural Networks.exe
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\bin\Debug\Image Recognation Using Artificial Neural Networks.pdb
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\obj\Debug\Image Recognation Using Artificial Neural Networks.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\obj\Debug\Image Recognation Using Artificial Neural Networks.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\obj\Debug\Image Recognation Using Artificial Neural Networks.exe
+C:\Users\test\source\repos\Image Recognation Using Artificial Neural Networks\Image Recognation Using Artificial Neural Networks\obj\Debug\Image Recognation Using Artificial Neural Networks.pdb
