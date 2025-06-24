@@ -1,2 +1,1 @@
-# Image-Recognation-Using-Artificial-Neural-Networks
-.
+Image‑Recognition‑Using‑Artificial‑Neural‑Networks is a project that performs image classification using a basic artificial neural network (ANN).
